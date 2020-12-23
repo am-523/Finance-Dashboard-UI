@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Finance Dashboard UI
+</name>
+</assembly>
+<members>
+<member name="T:Finance_Dashboard_UI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources._1990266_493afc79_1e94_43cd_a7d6_30b473008da7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.chip_card_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.data_transfer_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.data_transfer_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.data_transfer_127px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.data_transfer_127px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.data_transfer_200px_png2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.home_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.home_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.Kevin_Speicher_std_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.mastercard_logo_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.notification_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.notification_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.page_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.page_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.page_127px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.paper_plane_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.paypal_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.png_transparent_itunes_store_ipod_shuffle_apple_music_purple_text_number">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.search_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.settings_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.shopee_logo_8BFB861249_seeklogo_com">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.us_dollar_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.wallet_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finance_Dashboard_UI.My.Resources.Resources.wallet_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
